@@ -15,5 +15,3 @@ Mongodb
 Mysql
 Php
 Docker
-![Alt text](url)
-
