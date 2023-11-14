@@ -4,7 +4,16 @@
 
 ## Technology I Work
 
-- ✨ Frontend Magic: Leverage the power of React.js with TypeScript for a delightful user experience.
-- ✨ Backend Wizardry: Explore the backend wonders crafted with Node.js and PHP.
-- ✨ Database Mastery: Seamlessly integrate with MySQL and MongoDB databases.
-- ✨ Docker Charm: Containerize your application effortlessly with Docker.
+HTML
+![html](https://github.com/uttampun44/uttampun44/assets/64242682/036bb012-ad1e-4246-967b-b867443e2ff0)
+
+CSS
+Javascript
+Typescript
+Reactjs
+Nodejs
+Express JS
+Mongodb
+Mysql
+Php
+Docker
