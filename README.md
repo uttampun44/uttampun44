@@ -5,8 +5,6 @@
 ## Technology I Work
 
 HTML
-![html](https://github.com/uttampun44/uttampun44/assets/64242682/036bb012-ad1e-4246-967b-b867443e2ff0)
-
 CSS
 Javascript
 Typescript
@@ -17,3 +15,5 @@ Mongodb
 Mysql
 Php
 Docker
+![Alt text](url)
+
