@@ -24,7 +24,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=uttampun44)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-### Most language I Use
+### Most Used Language
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uttampun44&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
