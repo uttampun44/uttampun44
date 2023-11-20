@@ -7,7 +7,7 @@
 ## Technology I Work 
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,node,php,laravel,mysql,mongodb,docker,CI/CD&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,laravel,mysql,mongodb,docker,CI/CD&perline=5)](https://skillicons.dev)
 
 
 ### Github Stats
