@@ -7,10 +7,7 @@
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=uttampun44)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-![giphy](https://github.com/uttampun44/uttampun44/assets/64242682/d32f26df-029a-4991-9be6-838fee58a46b)
-
-## Technology I Work
+## Technology I Work   ![giphy](https://github.com/uttampun44/uttampun44/assets/64242682/d32f26df-029a-4991-9be6-838fee58a46b)
 - HTML 🌐
 - CSS 🎨
 - Javascript 💻
