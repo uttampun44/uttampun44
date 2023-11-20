@@ -7,7 +7,7 @@
 ## Technology I Work 
 
 
-[![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,ts,bootstrap,tailwind,react,vite,firebase,redux,nodejs,express,php,laravel,mysql,mongodb,docker,github,git,wordpress,jquery&perline=10&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,ts,sass,bootstrap,tailwind,react,vite,firebase,redux,nodejs,express,php,laravel,mysql,mongodb,docker,github,git,wordpress,jquery&perline=10&theme=dark)](https://skillicons.dev)
 
 
 ### Github Stats
