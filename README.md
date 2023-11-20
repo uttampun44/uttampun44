@@ -2,6 +2,8 @@
 ### Hi there 👋
  I'm Uttam, a frontend developer who occasionally delves into backend magic with Node.js and PHP. 
  I'm also familiar with MySQL and MongoDB, and I love containerizing applications with Docker.
+
+ ### My Github Trophies
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=uttampun44)](https://github.com/ryo-ma/github-profile-trophy)
 
