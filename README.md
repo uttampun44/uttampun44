@@ -7,7 +7,7 @@
 ## My Skill
 
 
-[![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,ts,sass,bootstrap,tailwind,react,materialui,vite,firebase,redux,nodejs,express,nextjs,laravel,php,mysql,mongodb,docker,github,git,wordpress,postman,jquery&perline=10&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,ts,sass,bootstrap,tailwind,react,materialui,vite,firebase,redux,nodejs,express,nextjs,reactnativelaravel,php,mysql,mongodb,docker,github,git,wordpress,postman,jquery&perline=10&theme=dark)](https://skillicons.dev)
 
 
 ### Github Stats
