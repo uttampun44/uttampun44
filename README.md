@@ -1,6 +1,6 @@
 
 ### Hi there 👋
- I'm Uttam, a frontend developer who occasionally delves into backend magic with Node.js and PHP. 
+ I'm Uttam, a frontend developer who occasionally delves into backend magic with python and PHP. 
  I'm also familiar with MySQL and MongoDB, and I love containerizing applications with Docker.
 
 
